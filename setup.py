@@ -80,7 +80,7 @@ setup(
     install_requires=[
     ],
 
-    python_requires='',
+    python_requires='>=2.7',
 
     # List additional groups of dependencies here (e.g. development
     # dependencies). You can install these using the following syntax,
